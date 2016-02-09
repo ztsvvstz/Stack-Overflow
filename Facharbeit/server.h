@@ -1,0 +1,2 @@
+
+void StartServer(WORD port);

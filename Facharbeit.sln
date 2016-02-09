@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Facharbeit_ChatProgramm", "Facharbeit\Facharbeit.vcxproj", "{DAF8DBB3-BAD5-4774-824A-3C5685D8C16B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FachArbeit_Overflow", "FachArbeit_Overflow\FachArbeit_Overflow.vcxproj", "{FF3C00FB-7E67-4773-BA4C-13C05ABB542F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF8DBB3-BAD5-4774-824A-3C5685D8C16B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DAF8DBB3-BAD5-4774-824A-3C5685D8C16B}.Debug|Win32.Build.0 = Debug|Win32
+		{DAF8DBB3-BAD5-4774-824A-3C5685D8C16B}.Release|Win32.ActiveCfg = Release|Win32
+		{DAF8DBB3-BAD5-4774-824A-3C5685D8C16B}.Release|Win32.Build.0 = Release|Win32
+		{FF3C00FB-7E67-4773-BA4C-13C05ABB542F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FF3C00FB-7E67-4773-BA4C-13C05ABB542F}.Debug|Win32.Build.0 = Debug|Win32
+		{FF3C00FB-7E67-4773-BA4C-13C05ABB542F}.Release|Win32.ActiveCfg = Release|Win32
+		{FF3C00FB-7E67-4773-BA4C-13C05ABB542F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
